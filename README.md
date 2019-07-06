@@ -5,3 +5,6 @@ CREATE TABLE Student(
    AGE  INT NOT NULL,
    PRIMARY KEY (ID)
 );
+
+运行springJDBC所要的jar包可在spring官方网站中下载
+网址：https://repo.spring.io/release/org/springframework/spring/
